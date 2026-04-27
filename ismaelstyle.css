@@ -25,7 +25,7 @@ section{background-color: rgb(71, 49, 49);height:auto;
 box-shadow: 0 -15px 10px rgba(118, 109, 109, 0.755) ;
 }
 .z{ height:100%;width: 96%;display: flex;align-items: center;
-margin:auto 0 ;overflow-x : auto ;
+margin:auto 0 ;
 }
 .pro{text-align: center;padding-top: 20px; margin: 0px;}
 h3 span{border-bottom: solid 2px rgb(255, 255, 255);color: aliceblue;font-family: 'Courier New', Courier, monospace;}
