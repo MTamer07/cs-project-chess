@@ -1,13 +1,13 @@
 *{padding: 0;margin: 0;}
 body{height:100vh;
     justify-content: center;
-    background-image: linear-gradient(to right,rgb(110, 98, 98),rgb(49, 56, 75))
+   
 }
-.container{height: 400px;box-shadow: 0 -15px 10px rgb(32, 26, 26);
+.container{height: 400px
 
    ; width: 100%;
    background-image:linear-gradient(to right, rgba(168, 154, 154, 0.436),rgba(58, 50, 50, 0.858)),url(adds/photo.jpg);background-size:cover 
-   ;background-repeat: no-repeat;background-position:20% 30%;
+   ;background-repeat: no-repeat;
 
 header{background-image: none;display: flex;justify-content: space-between;}
 header img{height: 20px; padding:5px 2px;}
